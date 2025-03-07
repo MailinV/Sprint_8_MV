@@ -32,10 +32,6 @@ import sys
 
 - `Sprint8_MV.ipynb`: The main Jupyter Notebook file containing the implementation.
 
-## License
-
-This project is for educational purposes and does not have a specific license.
-
 ## Acknowledgments
 
 - Python Software Foundation
